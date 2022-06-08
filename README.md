@@ -5,7 +5,7 @@ I like this balance of technology and litterature and invite you to discover my 
 
 Let's connect on linkedIn : https://www.linkedin.com/in/yeyi-billa/
 
-I am also very interested in robotics, and made a Tableau analysis on it on my Tableau portfolio: public.tableau.com/app/profile/yeyi.billa 
+I am also very interested in robotics, and made a Tableau analysis on it on my Tableau portfolio: public.tableau.com/app/profile/yeyi.billa  
 
 Life is best when we enjoy our passions!
 
