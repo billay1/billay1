@@ -1,14 +1,15 @@
 ### Hi! Coucou! Akwaba! 👋
 
-I am Yeyi Billa. Although I am tech person, I love literature so much, and you will often see me with a novel in hands.
-I like this balance of technology and literature and invite you to discover my universe!
+I am Yeyi Billa. I am a hardworking and dedicated person, committed to doing my best to achieve high. I am confident that my educational journey has gifted me with the required skills to extrapolate data and information to provide optimal solutions and build fruitful relationships with teammates and customers. But most importantly, I am an avid learner, I acknowledge that there is always something to learn, and I am ready to learn from others and progress professionally and personally. I am astute, organized and methodical with an articulate communication style and personable nature.
 
 
 I am also very interested in robotics, and made a Tableau analysis on it in my Tableau portfolio: public.tableau.com/app/profile/yeyi  
 
-Life is best when we enjoy our passions!
+Life is best when we enjoy our passions! Enjoy your tour on my page.
 
-Let's connect on linkedIn : https://www.linkedin.com/in/yeyi-billa/ 
+And...
+
+Let's connect on linkedIn ! 😄: https://www.linkedin.com/in/yeyi-billa/ 
 
 
 <!--
