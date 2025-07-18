@@ -1,6 +1,6 @@
 ### Hi there ! 👋
 
-I am Yeyi Billa. I am a hardworking and dedicated person, committed to doing my best to achieve high. I am confident that my educational journey has gifted me with the required skills to extrapolate data and information to provide optimal solutions and build fruitful relationships with teammates and customers. But most importantly, I am an avid learner, I acknowledge that there is always something to learn, and I am ready to learn from others and progress professionally and personally. I am astute, organized and methodical with an articulate communication style and personable nature.
+I am Yeyi Billa. I am a hardworking and dedicated person, committed to doing my best to achieve high. I am confident that my educational journey has gifted me with the required skills to extrapolate data and information to provide optimal solutions and build fruitful relationships with teammates and customers. But most importantly, I am an avid learner, I acknowledge that there is always a room to learn, and I am ready to learn from others and progress professionally and personally. I am astute, organized ,and methodical with an articulate communication style and personable nature.
 
 
 I am also very interested in robotics, and made a Tableau analysis on it in my Tableau portfolio: public.tableau.com/app/profile/yeyi  
